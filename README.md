@@ -1,4 +1,3 @@
-# Ledger_Protocol_EcoTrack
 # EcoTrack: Personal Carbon Accounting Ledger
 
 EcoTrack is a client-side sustainability tool designed to track, analyze, and optimize daily carbon dioxide (CO₂) emissions. 
